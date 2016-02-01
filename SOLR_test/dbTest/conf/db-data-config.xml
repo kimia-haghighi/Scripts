@@ -1,0 +1,16 @@
+<dataConfig>
+	<dataSource type="JdbcDataSource" driver="com.mysql.jdbc.Driver" url="jdbc:mysql://localhost:3306/accenture_4" user="root" password="Maheen1991!"/>
+    <document>
+	  <entity name="item" query="select  * from accenture_jobs WHERE LENGTH(JOB_TITLE) >10"
+			deltaImportQuery="select * from accenture_jobs where AJ_JOBID='${dataimporter.AJ_JOBID}'"
+			deltaQuery="select AJ_JOBID from jobs where LOAD_DATE > '${dataimporter.last_index_time}'">
+            <field column="AJ_JOBID" name="id" />
+			<field column="JOB_TITLE" name="jobName" />
+			<field column="JOB_DESCRIPTION" name="jobDescription"/>
+			<field column="LOCATION" name="jobLocation"/>
+			<field column="COUNTRY" name="jobCountry"/>
+			<field column="JOB_DESCRIPTION" name="jobQualification"/>
+			
+		</entity>
+    </document>
+</dataConfig>

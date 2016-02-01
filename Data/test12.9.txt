@@ -1,0 +1,31 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":1,
+    "params":{
+      "q":"jobName: developer",
+      "indent":"true",
+      "fl":"jobName",
+      "wt":"json"}},
+  "response":{"numFound":6436,"start":0,"docs":[
+      {
+        "jobName":["Software Developer"]},
+      {
+        "jobName":["Software Developer"]},
+      {
+        "jobName":["Software Developer"]},
+      {
+        "jobName":["Software Developer"]},
+      {
+        "jobName":["Software Engineer"]},
+      {
+        "jobName":["Software Engineer"]},
+      {
+        "jobName":["Software Developer"]},
+      {
+        "jobName":["Software Developer"]},
+      {
+        "jobName":["Software Developer"]},
+      {
+        "jobName":["Software Developer"]}]
+  }}

@@ -1,0 +1,31 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":4,
+    "params":{
+      "q":"jobName: developer",
+      "indent":"true",
+      "fl":"jobName",
+      "wt":"json"}},
+  "response":{"numFound":3411,"start":0,"docs":[
+      {
+        "jobName":"Java Developer/Engineer- Multiple Locations"},
+      {
+        "jobName":"Java Developer- Software Engineer -Austin"},
+      {
+        "jobName":"Business Intelligence Developer - Software Engineer"},
+      {
+        "jobName":"Business Intelligence Developer - Software Engineer"},
+      {
+        "jobName":"Business Intelligence Developer - Software Engineer"},
+      {
+        "jobName":"Java Developer - Senior Software Engineer - Manchester"},
+      {
+        "jobName":"CMT Sr Java Developer/ Software Engineer"},
+      {
+        "jobName":"Software Engineer - Front-End Web Developer"},
+      {
+        "jobName":"Senior Software Engineer - Front-End Web Developer"},
+      {
+        "jobName":"Software Developer- Software Engineer Sr. Analyst"}]
+  }}
