@@ -1,0 +1,122 @@
+QUERY,QUERY CATEGORY,RESPONSE,RESPONSE CATEGORY,MATCH
+run,run,sprint,run,1
+run,run,sprint telephones,run,1
+run,run,dashes,run,1
+run,run,dashing ,run,1
+run,run,rushes,run,1
+run,run,rushing,run,1
+run,run,sprinting,run,1
+run,run,Running,run,1
+run,run,She runs,run,1
+run,run,I am running,run,1
+run,run,,,Failed!
+running,run,Running,run,1
+running,run,sprint,run,1
+running,run,She runs,run,1
+running,run,sprint telephones,run,1
+running,run,I am running,run,1
+running,run,,,Passed!
+ran,run,Ran,run,1
+ran,run,,,Failed!
+runner,run,sprint,run,1
+runner,run,sprint telephones,run,1
+runner,run,dashes,run,1
+runner,run,dashing ,run,1
+runner,run,rushes,run,1
+runner,run,rushing,run,1
+runner,run,sprinting,run,1
+runner,run,Running,run,1
+runner,run,She runs,run,1
+runner,run,I am running,run,1
+runner,run,,,Failed!
+walk,walk,walker,walk,1
+walk,walk,ambling,walk,1
+walk,walk,paces,walk,1
+walk,walk,pacing,walk,1
+walk,walk,walked,walk,1
+walk,walk,walking,walk,1
+walk,walk,walking stick,walk,1
+walk,walk,,,Failed!
+walking,walk,walked,walk,1
+walking,walk,walker,walk,1
+walking,walk,walking,walk,1
+walking,walk,walking stick,walk,1
+walking,walk,,,Failed!
+walked,walk,walked,walk,1
+walked,walk,walker,walk,1
+walked,walk,walking,walk,1
+walked,walk,walking stick,walk,1
+walked,walk,,,Failed!
+jump,jump,jumper,jump,1
+jump,jump,Leap,jump,1
+jump,jump,leap frog,jump,1
+jump,jump,leap year,jump,1
+jump,jump,hopping,jump,1
+jump,jump,hops,jump,1
+jump,jump,jumped,jump,1
+jump,jump,jumping,jump,1
+jump,jump,leaping,jump,1
+jump,jump,I am leaping around,jump,1
+jump,jump,,,Failed!
+jumping,jump,jumped,jump,1
+jumping,jump,jumper,jump,1
+jumping,jump,jumping,jump,1
+jumping,jump,Leap,jump,1
+jumping,jump,leap frog,jump,1
+jumping,jump,leap year,jump,1
+jumping,jump,,,Passed!
+jumped,jump,jumped,jump,1
+jumped,jump,jumper,jump,1
+jumped,jump,jumping,jump,1
+jumped,jump,Leap,jump,1
+jumped,jump,leap frog,jump,1
+jumped,jump,leap year,jump,1
+jumped,jump,,,Passed!
+jumper,jump,jumper,jump,1
+jumper,jump,Leap,jump,1
+jumper,jump,leap frog,jump,1
+jumper,jump,leap year,jump,1
+jumper,jump,hopping,jump,1
+jumper,jump,hops,jump,1
+jumper,jump,jumped,jump,1
+jumper,jump,jumping,jump,1
+jumper,jump,leaping,jump,1
+jumper,jump,I am leaping around,jump,1
+jumper,jump,,,Failed!
+new+york,city,New York,city,1
+new+york,city,New York City,city,1
+new+york,city,NYC,city,1
+new+york,city,The Big Apple,city,1
+new+york,city,,,Passed!
+new+york+city,city,New York,city,1
+new+york+city,city,New York City,city,1
+new+york+city,city,NYC,city,1
+new+york+city,city,The Big Apple,city,1
+new+york+city,city,,,Passed!
+dog,dog,puppy dog,dog,1
+dog,dog,dog,dog,1
+dog,dog,grey hound,dog,1
+dog,dog,puppy,dog,1
+dog,dog,sheep dog,dog,1
+dog,dog,puppydog,dog,1
+dog,dog,,,Passed!
+puppy,dog,puppy dog,dog,1
+puppy,dog,dog,dog,1
+puppy,dog,grey hound,dog,1
+puppy,dog,puppy,dog,1
+puppy,dog,sheep dog,dog,1
+puppy,dog,puppydog,dog,1
+puppy,dog,,,Passed!
+puppydog,dog,puppy dog,dog,1
+puppydog,dog,dog,dog,1
+puppydog,dog,grey hound,dog,1
+puppydog,dog,puppy,dog,1
+puppydog,dog,sheep dog,dog,1
+puppydog,dog,puppydog,dog,1
+puppydog,dog,,,Passed!
+hound,dog,puppy dog,dog,1
+hound,dog,dog,dog,1
+hound,dog,grey hound,dog,1
+hound,dog,puppy,dog,1
+hound,dog,sheep dog,dog,1
+hound,dog,,,Failed!

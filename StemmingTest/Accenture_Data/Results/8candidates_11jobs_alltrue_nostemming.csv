@@ -1,0 +1,69 @@
+CID,CANDIDATE TITLE,CANDIDATE CATEGORY,JID,JOB TITLE,JOB CATEGORY,SCORE,MAX SCORE,CATEGORY MATCH
+176,Software Engineer at Financial Engines,Software Engineering,174394,Salesforce.com Senior Software Engineer  +,Software Engineering,0.06908069,0.06908069,1
+176,Software Engineer at Financial Engines,Software Engineering,217140,CA:Gen Senior Software Developer,Software Engineering,0.064189576,0.06908069,1
+176,Software Engineer at Financial Engines,Software Engineering,210034,Software Engineering eCommerce Developer -S,Software Engineering,0.058199223,0.06908069,1
+176,Software Engineer at Financial Engines,Software Engineering,217015,Data Analytics Senior Developer,Software Engineering,0.052123845,0.06908069,1
+176,Software Engineer at Financial Engines,Software Engineering,210813,Big Data Software Engineering Analyst+,Software Engineering,0.0437742,0.06908069,1
+176,Software Engineer at Financial Engines,Software Engineering,210815,Hadoop Software Engineering Team Lead+,Software Engineering,0.0437742,0.06908069,1
+176,Software Engineer at Financial Engines,Software Engineering,211382,Software Engineering - Sr. Analyst - Java - S,Software Engineering,0.040315665,0.06908069,1
+176,Software Engineer at Financial Engines,Software Engineering,215113,"Federal - Senior PeopleSoft Developer - Annapolis Junction, MD",Software Engineering,0.040315665,0.06908069,1
+176,Software Engineer at Financial Engines,Software Engineering,215503,Java/J2EE Execution Architect - Software Engineering Team Lead +,Software Engineering,0.040315665,0.06908069,1
+176,Software Engineer at Financial Engines,Software Engineering,215841,Java Webservices Software Engineering Sr. Analyst- Austin,Software Engineering,0.040315665,0.06908069,1
+176,Software Engineer at Financial Engines,Software Engineering,215848,"Entry Level Software Engineering Associate - Atlanta, GA +",Software Engineering,0.040315665,0.06908069,1
+249,Software Development Intern at Reppify,Software Engineering,174394,Salesforce.com Senior Software Engineer  +,Software Engineering,0.017191803,0.017191803,1
+249,Software Development Intern at Reppify,Software Engineering,210034,Software Engineering eCommerce Developer -S,Software Engineering,0.015042827,0.017191803,1
+249,Software Development Intern at Reppify,Software Engineering,217140,CA:Gen Senior Software Developer,Software Engineering,0.015042827,0.017191803,1
+249,Software Development Intern at Reppify,Software Engineering,217015,Data Analytics Senior Developer,Software Engineering,0.012156441,0.017191803,1
+249,Software Development Intern at Reppify,Software Engineering,210813,Big Data Software Engineering Analyst+,Software Engineering,0.010636886,0.017191803,1
+249,Software Development Intern at Reppify,Software Engineering,210815,Hadoop Software Engineering Team Lead+,Software Engineering,0.010636886,0.017191803,1
+249,Software Development Intern at Reppify,Software Engineering,211382,Software Engineering - Sr. Analyst - Java - S,Software Engineering,0.00911733,0.017191803,1
+249,Software Development Intern at Reppify,Software Engineering,215113,"Federal - Senior PeopleSoft Developer - Annapolis Junction, MD",Software Engineering,0.00911733,0.017191803,1
+249,Software Development Intern at Reppify,Software Engineering,215503,Java/J2EE Execution Architect - Software Engineering Team Lead +,Software Engineering,0.00911733,0.017191803,1
+249,Software Development Intern at Reppify,Software Engineering,215841,Java Webservices Software Engineering Sr. Analyst- Austin,Software Engineering,0.00911733,0.017191803,1
+249,Software Development Intern at Reppify,Software Engineering,215848,"Entry Level Software Engineering Associate - Atlanta, GA +",Software Engineering,0.00911733,0.017191803,1
+1857,Software Developer Intern at Reppify,Software Engineering,174394,Salesforce.com Senior Software Engineer  +,Software Engineering,0.06908069,0.06908069,1
+1857,Software Developer Intern at Reppify,Software Engineering,217140,CA:Gen Senior Software Developer,Software Engineering,0.064189576,0.06908069,1
+1857,Software Developer Intern at Reppify,Software Engineering,210034,Software Engineering eCommerce Developer -S,Software Engineering,0.058199223,0.06908069,1
+1857,Software Developer Intern at Reppify,Software Engineering,217015,Data Analytics Senior Developer,Software Engineering,0.052123845,0.06908069,1
+1857,Software Developer Intern at Reppify,Software Engineering,210813,Big Data Software Engineering Analyst+,Software Engineering,0.0437742,0.06908069,1
+1857,Software Developer Intern at Reppify,Software Engineering,210815,Hadoop Software Engineering Team Lead+,Software Engineering,0.0437742,0.06908069,1
+1857,Software Developer Intern at Reppify,Software Engineering,211382,Software Engineering - Sr. Analyst - Java - S,Software Engineering,0.040315665,0.06908069,1
+1857,Software Developer Intern at Reppify,Software Engineering,215113,"Federal - Senior PeopleSoft Developer - Annapolis Junction, MD",Software Engineering,0.040315665,0.06908069,1
+1857,Software Developer Intern at Reppify,Software Engineering,215503,Java/J2EE Execution Architect - Software Engineering Team Lead +,Software Engineering,0.040315665,0.06908069,1
+1857,Software Developer Intern at Reppify,Software Engineering,215841,Java Webservices Software Engineering Sr. Analyst- Austin,Software Engineering,0.040315665,0.06908069,1
+1857,Software Developer Intern at Reppify,Software Engineering,215848,"Entry Level Software Engineering Associate - Atlanta, GA +",Software Engineering,0.040315665,0.06908069,1
+8739,Senior Engineer Product Development,Software Engineering,174394,Salesforce.com Senior Software Engineer  +,Software Engineering,0.116347805,0.116347805,1
+8739,Senior Engineer Product Development,Software Engineering,217015,Data Analytics Senior Developer,Software Engineering,0.1081287,0.116347805,1
+8739,Senior Engineer Product Development,Software Engineering,217140,CA:Gen Senior Software Developer,Software Engineering,0.107403085,0.116347805,1
+8739,Senior Engineer Product Development,Software Engineering,210815,Hadoop Software Engineering Team Lead+,Software Engineering,0.0918698,0.116347805,1
+8739,Senior Engineer Product Development,Software Engineering,211382,Software Engineering - Sr. Analyst - Java - S,Software Engineering,0.08292507,0.116347805,1
+8739,Senior Engineer Product Development,Software Engineering,215113,"Federal - Senior PeopleSoft Developer - Annapolis Junction, MD",Software Engineering,0.08292507,0.116347805,1
+8739,Senior Engineer Product Development,Software Engineering,215503,Java/J2EE Execution Architect - Software Engineering Team Lead +,Software Engineering,0.08292507,0.116347805,1
+8739,Senior Engineer Product Development,Software Engineering,215841,Java Webservices Software Engineering Sr. Analyst- Austin,Software Engineering,0.08292507,0.116347805,1
+8739,Senior Engineer Product Development,Software Engineering,210034,Software Engineering eCommerce Developer -S,Software Engineering,0.017915986,0.116347805,1
+8739,Senior Engineer Product Development,Software Engineering,210813,Big Data Software Engineering Analyst+,Software Engineering,0.014628341,0.116347805,1
+8739,Senior Engineer Product Development,Software Engineering,215848,"Entry Level Software Engineering Associate - Atlanta, GA +",Software Engineering,0.014628341,0.116347805,1
+TEST,Development in Java,Software Engineering,211382,Software Engineering - Sr. Analyst - Java - S,Software Engineering,0.08270125,0.08270125,1
+TEST,Development in Java,Software Engineering,215841,Java Webservices Software Engineering Sr. Analyst- Austin,Software Engineering,0.08270125,0.08270125,1
+TEST,Data Engineering,Software Engineering,217015,Data Analytics Senior Developer,Software Engineering,1.1737816,1.1737816,1
+TEST,Data Engineering,Software Engineering,210813,Big Data Software Engineering Analyst+,Software Engineering,1.0540527,1.1737816,1
+TEST,Data Engineering,Software Engineering,210034,Software Engineering eCommerce Developer -S,Software Engineering,0.05956225,1.1737816,1
+TEST,Data Engineering,Software Engineering,210815,Hadoop Software Engineering Team Lead+,Software Engineering,0.05956225,1.1737816,1
+TEST,Data Engineering,Software Engineering,211382,Software Engineering - Sr. Analyst - Java - S,Software Engineering,0.05956225,1.1737816,1
+TEST,Data Engineering,Software Engineering,215503,Java/J2EE Execution Architect - Software Engineering Team Lead +,Software Engineering,0.05956225,1.1737816,1
+TEST,Data Engineering,Software Engineering,215841,Java Webservices Software Engineering Sr. Analyst- Austin,Software Engineering,0.05956225,1.1737816,1
+TEST,Data Engineering,Software Engineering,215848,"Entry Level Software Engineering Associate - Atlanta, GA +",Software Engineering,0.05956225,1.1737816,1
+TEST,Data Engineering,Software Engineering,174394,Salesforce.com Senior Software Engineer  +,Software Engineering,0.052646093,1.1737816,1
+TEST,Data Engineering,Software Engineering,217140,CA:Gen Senior Software Developer,Software Engineering,0.052646093,1.1737816,1
+TEST,Data Engineering,Software Engineering,215113,"Federal - Senior PeopleSoft Developer - Annapolis Junction, MD",Software Engineering,0.042116873,1.1737816,1
+TEST,Java Backend Developer,Software Engineering,211382,Software Engineering - Sr. Analyst - Java - S,Software Engineering,0.36119756,0.36119756,1
+TEST,Java Backend Developer,Software Engineering,215841,Java Webservices Software Engineering Sr. Analyst- Austin,Software Engineering,0.36119756,0.36119756,1
+TEST,Java Backend Developer,Software Engineering,174394,Salesforce.com Senior Software Engineer  +,Software Engineering,0.035780936,0.36119756,1
+TEST,Java Backend Developer,Software Engineering,217140,CA:Gen Senior Software Developer,Software Engineering,0.035780936,0.36119756,1
+TEST,Java Backend Developer,Software Engineering,217015,Data Analytics Senior Developer,Software Engineering,0.029215014,0.36119756,1
+TEST,Java Backend Developer,Software Engineering,210034,Software Engineering eCommerce Developer -S,Software Engineering,0.028624749,0.36119756,1
+TEST,Java Backend Developer,Software Engineering,210813,Big Data Software Engineering Analyst+,Software Engineering,0.02337201,0.36119756,1
+TEST,Java Backend Developer,Software Engineering,210815,Hadoop Software Engineering Team Lead+,Software Engineering,0.02337201,0.36119756,1
+TEST,Java Backend Developer,Software Engineering,215113,"Federal - Senior PeopleSoft Developer - Annapolis Junction, MD",Software Engineering,0.02337201,0.36119756,1
+TEST,Java Backend Developer,Software Engineering,215503,Java/J2EE Execution Architect - Software Engineering Team Lead +,Software Engineering,0.02337201,0.36119756,1
+TEST,Java Backend Developer,Software Engineering,215848,"Entry Level Software Engineering Associate - Atlanta, GA +",Software Engineering,0.02337201,0.36119756,1
